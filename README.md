@@ -10,7 +10,6 @@ This project uses deep learning to predict the future stock prices of **Unilever
 * **Source:** Public stock price history
 * **Time Frame:** Jan 31, 2020 – Jul 28, 2025
 * **Features:** Date, Open, High, Low, Close, Volume, Change %
-* [Link to Dataset](#) *(replace with actual link if available)*
 
 ---
 
