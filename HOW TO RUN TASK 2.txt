@@ -1,0 +1,8 @@
+1-
+Run Task 2.ipynb (Notebook)
+
+2-
+Replace the path of dataset csv file and model h5 file accordingly
+
+3-
+Run all the cells 
